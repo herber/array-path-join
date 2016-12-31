@@ -1,0 +1,1 @@
+{"name":"array-path-join","main":"lib/app.js","repository":{"url":"https://github.com/tobihrbr/array-path-join.git","type":"git"},"version":"0.0.1","description":"like path.join but with an array","keywords":["path","join","array"],"license":"MIT","author":"tobihrbr","scripts":{"start":"node lib/app.js"}}
